@@ -21,6 +21,12 @@ index.html
 styles.css
 script.js
 
+## 🌐 Live Demo
+
+[Click here to view the live site](https://kirtiprasad2.github.io/To-do-list-project/)
+
+
+
 
 
 
