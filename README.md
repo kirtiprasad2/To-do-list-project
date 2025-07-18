@@ -1,7 +1,7 @@
 
 # To-Do List App 📝
 
-A simple and beautiful To-Do List web app built using *HTML, **CSS, and **JavaScript*. This project allows users to add, delete, and manage tasks with an attractive interface
+A simple and beautiful To-Do List web app built using HTML, CSS, and JavaScript. This project allows users to add, delete, and manage tasks with an attractive interface
 
 ## 🚀 Features
 - Add new tasks
@@ -18,7 +18,7 @@ A simple and beautiful To-Do List web app built using *HTML, **CSS, and **JavaSc
 ## 📁 Project Structure
 
 index.html
-style.css
+styles.css
 script.js
 
 
